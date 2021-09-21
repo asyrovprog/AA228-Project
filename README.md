@@ -4,6 +4,8 @@
 
 In our work we reproduce the works of Komorowksi et al. [1] and explore methods that can address its limitations as described in  Jetter  et  al.  [2]. We describe alternatives to state representation and alternative methods of learning: Q-learning and SARSA with Value Function Approximation.
 
+[Paper](https://github.com/asyrovprog/AA228-Project/blob/master/AA228_Paper.pdf)
+
 ## Project folder structure
 
 `results` - Summary analysis of policies of used algorithms
